@@ -1,4 +1,4 @@
-## Hi there, I'm Seungmin Cha(Virtuso1225) 👋
+## Hi there, I'm Seungmin Cha 👋
 
 ## I'm a college student attending Korea University !!
 
