@@ -50,7 +50,7 @@
 - The Tyranny of Merit What's Become of the Common Good? (Michael J. Sandel)
 
 ---
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-wheat-six.vercel.app/api?username=Virtuso1225&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-git-master.virtuso1225.vercel.app/&show_icons=true&hide_border=true" />
 
 [instagram]: https://www.instagram.com/chaeus_1225/
 [javascript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
