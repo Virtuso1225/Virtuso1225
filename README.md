@@ -52,7 +52,7 @@
 ---
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.virtuso1225.vercel.app/api?username=Virtuso1225&show_icons=true&hide_border=true" />
 
-[instagram]: https://www.instagram.com/chaeus_1225/
+[instagram]: https://www.instagram.com/char_smine/
 [javascript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [react]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [typescript]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
